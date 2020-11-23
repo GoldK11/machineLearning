@@ -1,6 +1,7 @@
 # machineLearning
 python machine learning self-study 
 
-tool - colab
+editor - colab
+
 library - scikit_learn
 
